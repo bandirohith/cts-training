@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\project\project\bin\Debug\netcoreapp1.1\project.deps.json
+C:\Users\Admin\source\repos\project\project\bin\Debug\netcoreapp1.1\project.runtimeconfig.json
+C:\Users\Admin\source\repos\project\project\bin\Debug\netcoreapp1.1\project.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\project\project\obj\Debug\netcoreapp1.1\project.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\project\project\obj\Debug\netcoreapp1.1\project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\project\project\obj\Debug\netcoreapp1.1\project.AssemblyInfo.cs

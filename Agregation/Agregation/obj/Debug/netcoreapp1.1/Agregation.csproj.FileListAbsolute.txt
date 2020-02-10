@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Agregation\Agregation\bin\Debug\netcoreapp1.1\Agregation.deps.json
+c:\users\admin\source\repos\Agregation\Agregation\bin\Debug\netcoreapp1.1\Agregation.runtimeconfig.json
+c:\users\admin\source\repos\Agregation\Agregation\bin\Debug\netcoreapp1.1\Agregation.runtimeconfig.dev.json
+c:\users\admin\source\repos\Agregation\Agregation\bin\Debug\netcoreapp1.1\Agregation.dll
+c:\users\admin\source\repos\Agregation\Agregation\bin\Debug\netcoreapp1.1\Agregation.pdb
+c:\users\admin\source\repos\Agregation\Agregation\obj\Debug\netcoreapp1.1\Agregation.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Agregation\Agregation\obj\Debug\netcoreapp1.1\Agregation.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Agregation\Agregation\obj\Debug\netcoreapp1.1\Agregation.AssemblyInfo.cs
+c:\users\admin\source\repos\Agregation\Agregation\obj\Debug\netcoreapp1.1\Agregation.dll
+c:\users\admin\source\repos\Agregation\Agregation\obj\Debug\netcoreapp1.1\Agregation.pdb

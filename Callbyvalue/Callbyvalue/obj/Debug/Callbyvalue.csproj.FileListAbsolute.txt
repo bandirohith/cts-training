@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\bin\Debug\Callbyvalue.exe.config
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\bin\Debug\Callbyvalue.exe
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\bin\Debug\Callbyvalue.pdb
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\obj\Debug\Callbyvalue.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\obj\Debug\Callbyvalue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\obj\Debug\Callbyvalue.exe
+C:\Users\Admin\source\repos\Callbyvalue\Callbyvalue\obj\Debug\Callbyvalue.pdb

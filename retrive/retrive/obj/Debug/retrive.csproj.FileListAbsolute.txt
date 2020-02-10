@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\retrive\retrive\bin\Debug\retrive.exe.config
+C:\Users\Admin\source\repos\retrive\retrive\bin\Debug\retrive.exe
+C:\Users\Admin\source\repos\retrive\retrive\bin\Debug\retrive.pdb
+C:\Users\Admin\source\repos\retrive\retrive\obj\Debug\retrive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\retrive\retrive\obj\Debug\retrive.exe
+C:\Users\Admin\source\repos\retrive\retrive\obj\Debug\retrive.pdb

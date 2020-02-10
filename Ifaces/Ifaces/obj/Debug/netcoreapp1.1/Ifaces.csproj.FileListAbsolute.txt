@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Ifaces\Ifaces\bin\Debug\netcoreapp1.1\Ifaces.deps.json
+C:\Users\Admin\source\repos\Ifaces\Ifaces\bin\Debug\netcoreapp1.1\Ifaces.runtimeconfig.json
+C:\Users\Admin\source\repos\Ifaces\Ifaces\bin\Debug\netcoreapp1.1\Ifaces.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Ifaces\Ifaces\obj\Debug\netcoreapp1.1\Ifaces.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Ifaces\Ifaces\obj\Debug\netcoreapp1.1\Ifaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ifaces\Ifaces\obj\Debug\netcoreapp1.1\Ifaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Ifaces\Ifaces\bin\Debug\netcoreapp1.1\Ifaces.dll
+C:\Users\Admin\source\repos\Ifaces\Ifaces\bin\Debug\netcoreapp1.1\Ifaces.pdb
+C:\Users\Admin\source\repos\Ifaces\Ifaces\obj\Debug\netcoreapp1.1\Ifaces.dll
+C:\Users\Admin\source\repos\Ifaces\Ifaces\obj\Debug\netcoreapp1.1\Ifaces.pdb

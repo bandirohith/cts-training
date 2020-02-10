@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Admin\source\repos\EmployeeApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

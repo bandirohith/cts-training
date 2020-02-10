@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Dgates\Dgates\bin\Debug\Dgates.exe.config
+C:\Users\Admin\source\repos\Dgates\Dgates\bin\Debug\Dgates.exe
+C:\Users\Admin\source\repos\Dgates\Dgates\bin\Debug\Dgates.pdb
+C:\Users\Admin\source\repos\Dgates\Dgates\obj\Debug\Dgates.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Dgates\Dgates\obj\Debug\Dgates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dgates\Dgates\obj\Debug\Dgates.exe
+C:\Users\Admin\source\repos\Dgates\Dgates\obj\Debug\Dgates.pdb

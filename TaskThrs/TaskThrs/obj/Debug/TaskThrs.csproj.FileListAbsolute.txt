@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\bin\Debug\TaskThrs.exe.config
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\bin\Debug\TaskThrs.exe
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\bin\Debug\TaskThrs.pdb
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\obj\Debug\TaskThrs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\obj\Debug\TaskThrs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\obj\Debug\TaskThrs.exe
+C:\Users\Admin\source\repos\TaskThrs\TaskThrs\obj\Debug\TaskThrs.pdb

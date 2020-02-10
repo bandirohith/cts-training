@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\bin\Debug\multipleClasses.exe.config
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\bin\Debug\multipleClasses.exe
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\bin\Debug\multipleClasses.pdb
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\obj\Debug\multipleClasses.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\obj\Debug\multipleClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\obj\Debug\multipleClasses.exe
+C:\Users\Admin\source\repos\multipleClasses\multipleClasses\obj\Debug\multipleClasses.pdb

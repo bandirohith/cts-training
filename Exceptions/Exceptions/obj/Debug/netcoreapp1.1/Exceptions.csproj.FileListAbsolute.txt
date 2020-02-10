@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp1.1\Exceptions.deps.json
+c:\users\admin\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp1.1\Exceptions.runtimeconfig.json
+c:\users\admin\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp1.1\Exceptions.runtimeconfig.dev.json
+c:\users\admin\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp1.1\Exceptions.dll
+c:\users\admin\source\repos\Exceptions\Exceptions\bin\Debug\netcoreapp1.1\Exceptions.pdb
+c:\users\admin\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp1.1\Exceptions.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp1.1\Exceptions.AssemblyInfo.cs
+c:\users\admin\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp1.1\Exceptions.dll
+c:\users\admin\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp1.1\Exceptions.pdb
+c:\users\admin\source\repos\Exceptions\Exceptions\obj\Debug\netcoreapp1.1\Exceptions.csprojResolveAssemblyReference.cache

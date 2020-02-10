@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\secondApp\secondApp\bin\Debug\secondApp.exe.config
+C:\Users\Admin\source\repos\secondApp\secondApp\bin\Debug\secondApp.exe
+C:\Users\Admin\source\repos\secondApp\secondApp\bin\Debug\secondApp.pdb
+C:\Users\Admin\source\repos\secondApp\secondApp\obj\Debug\secondApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\secondApp\secondApp\obj\Debug\secondApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\secondApp\secondApp\obj\Debug\secondApp.exe
+C:\Users\Admin\source\repos\secondApp\secondApp\obj\Debug\secondApp.pdb

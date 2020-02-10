@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\githubproject\githubproject\obj\Debug\githubproject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\githubproject\githubproject\obj\Debug\githubproject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\githubproject\githubproject\bin\Debug\githubproject.exe.config
+C:\Users\Admin\source\repos\githubproject\githubproject\bin\Debug\githubproject.exe
+C:\Users\Admin\source\repos\githubproject\githubproject\bin\Debug\githubproject.pdb
+C:\Users\Admin\source\repos\githubproject\githubproject\obj\Debug\githubproject.exe
+C:\Users\Admin\source\repos\githubproject\githubproject\obj\Debug\githubproject.pdb

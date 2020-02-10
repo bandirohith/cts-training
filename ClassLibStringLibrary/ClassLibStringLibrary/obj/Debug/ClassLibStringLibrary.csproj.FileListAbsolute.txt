@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\bin\Debug\ClassLibStringLibrary.dll
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\bin\Debug\ClassLibStringLibrary.pdb
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\obj\Debug\ClassLibStringLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\obj\Debug\ClassLibStringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\obj\Debug\ClassLibStringLibrary.dll
+C:\Users\Admin\source\repos\ClassLibStringLibrary\ClassLibStringLibrary\obj\Debug\ClassLibStringLibrary.pdb

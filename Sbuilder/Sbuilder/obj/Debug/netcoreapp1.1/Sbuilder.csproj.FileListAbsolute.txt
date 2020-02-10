@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\bin\Debug\netcoreapp1.1\Sbuilder.deps.json
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\bin\Debug\netcoreapp1.1\Sbuilder.runtimeconfig.json
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\bin\Debug\netcoreapp1.1\Sbuilder.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\bin\Debug\netcoreapp1.1\Sbuilder.dll
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\bin\Debug\netcoreapp1.1\Sbuilder.pdb
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\obj\Debug\netcoreapp1.1\Sbuilder.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\obj\Debug\netcoreapp1.1\Sbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\obj\Debug\netcoreapp1.1\Sbuilder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\obj\Debug\netcoreapp1.1\Sbuilder.dll
+C:\Users\Admin\source\repos\Sbuilder\Sbuilder\obj\Debug\netcoreapp1.1\Sbuilder.pdb

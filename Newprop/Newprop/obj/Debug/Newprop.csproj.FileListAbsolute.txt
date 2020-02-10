@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\Newprop\Newprop\bin\Debug\Newprop.exe.config
+c:\users\admin\source\repos\Newprop\Newprop\bin\Debug\Newprop.exe
+c:\users\admin\source\repos\Newprop\Newprop\bin\Debug\Newprop.pdb
+c:\users\admin\source\repos\Newprop\Newprop\obj\Debug\Newprop.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Newprop\Newprop\obj\Debug\Newprop.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Newprop\Newprop\obj\Debug\Newprop.exe
+c:\users\admin\source\repos\Newprop\Newprop\obj\Debug\Newprop.pdb

@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\one\one\bin\Debug\netcoreapp1.1\one.deps.json
+c:\users\admin\source\repos\one\one\bin\Debug\netcoreapp1.1\one.runtimeconfig.json
+c:\users\admin\source\repos\one\one\bin\Debug\netcoreapp1.1\one.runtimeconfig.dev.json
+c:\users\admin\source\repos\one\one\bin\Debug\netcoreapp1.1\one.dll
+c:\users\admin\source\repos\one\one\bin\Debug\netcoreapp1.1\one.pdb
+c:\users\admin\source\repos\one\one\obj\Debug\netcoreapp1.1\one.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\one\one\obj\Debug\netcoreapp1.1\one.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\one\one\obj\Debug\netcoreapp1.1\one.AssemblyInfo.cs
+c:\users\admin\source\repos\one\one\obj\Debug\netcoreapp1.1\one.dll
+c:\users\admin\source\repos\one\one\obj\Debug\netcoreapp1.1\one.pdb

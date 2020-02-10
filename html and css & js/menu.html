@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Menu</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      
+      /* Create three equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Clear floats after the columns */
+      .row:after{
+        content: "";
+        display: table;
+        clear: both;
+      }
+      </style>
+    
+    
+  </head>
+  <body>
+    <div align="center">
+      <img src="images/rest.jpg" length="1000" width="500"  >
+    </div>
+    <div class="row">
+      <div class="column" style="background-color:#aaa;">
+        <h2>BREAKFAST</h2>
+        <ol>
+          <li>Idly</li>
+          <li>Dosa</li>
+          <li>Vada</li>
+          <li>Puri</li>
+          <li>vadapav</li>
+        </ol>
+       </div>
+      <div class="column" style="background-color:#bbb;">
+        <h2>Lunch</h2>
+        <ol>
+          <li>Indian Thali</li>
+          <li>Andhra meals</li>
+          <li>Biryanis</li>
+          <li>North indian food</li>
+          <li>chinese</li>
+        </ol>
+      
+      </div>
+      <div class="column" style="background-color:#ccc;">
+        <h2>DINNER</h2>
+        <ol>
+          <li>roti</li>
+          <li>pulka</li>
+          <li>noodles</li>
+          <li>manchuria</li>
+          <li>a</li>
+        </ol>
+        
+      </div>
+    
+
+  </body>
+</html>

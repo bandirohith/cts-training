@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\bin\Debug\InsertAndRead.exe.config
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\bin\Debug\InsertAndRead.exe
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\bin\Debug\InsertAndRead.pdb
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\obj\Debug\InsertAndRead.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\obj\Debug\InsertAndRead.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\obj\Debug\InsertAndRead.exe
+C:\Users\Admin\source\repos\InsertAndRead\InsertAndRead\obj\Debug\InsertAndRead.pdb

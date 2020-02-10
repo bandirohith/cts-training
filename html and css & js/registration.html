@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+    function validateForm() {
+        var x = document.forms["Registration"]["Firstname"].value;
+        if (x == "") {
+          alert("Name must be filled out");
+          return false;
+        }
+      }
+      </script>
+</head>
+<body>
+    <div align="center">
+       <h1>REGISTRATION</h1>
+       <hr><br>
+    </div>    
+    <form name="Registration"  method="GET">
+        
+            <table>    
+            <tr>
+                <td>FirstName:</td><td><input name="FirstName" type="text"></td>
+            </tr>
+            <tr>
+                <td>LastName:</td><td><input name="LastName" type="text"></td>
+            </tr>
+            <tr>
+                <td>Address:</td><td><textarea name="Address" cols="30" rows="10"></textarea>
+                   
+                    
+            </tr>
+            <tr>
+                <td>Gender:</td><td><input name="male" type="radio">male</td>
+                <td><input name="female" type="radio">female</td>
+            </tr>
+            <tr>
+                <td>State</td><td><select>
+                    <option value="Andhra">Andhra</option>
+                    <option value="karnataka">karnataka</option>
+                    <option value="Maharastra">Maharastr</option>
+                    <option value="kerala">kerala</option>
+                  </select></td>
+           
+            </tr>
+            <tr>
+                <td><input type="submit" value="submit" name="submit"></td> <td><input type="reset" value="reset" name="reset"></td>
+
+
+            </tr>
+        
+       
+        </table>>
+        
+        </form>
+
+            
+        </table>
+                
+            
+            
+            
+    
+</body>
+</html>

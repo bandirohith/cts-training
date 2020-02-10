@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.deps.json
+c:\users\admin\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.runtimeconfig.json
+c:\users\admin\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.runtimeconfig.dev.json
+c:\users\admin\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.dll
+c:\users\admin\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.pdb
+c:\users\admin\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.AssemblyInfo.cs
+c:\users\admin\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.dll
+c:\users\admin\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.pdb

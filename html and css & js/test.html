@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        function tryThis()
+        {
+            var x=document.getElementsByTagName('div')[0];
+            var y=x.getElementsByTagName('p');
+            y[1].innerHTML="text changed";
+        }
+    </script>
+   
+</head>
+<body>
+    <div>
+        <form name="test" method=post();>
+            <label>Name:</label>
+            <input type="text" name="fname">
+
+        </form>
+        <p>para1</p>
+        <p>para2</p>
+        <p id="demo">previous data</p>
+    <button type="button" onclick="tryThis()">clickme</button>
+    </div>
+</body>
+</html>

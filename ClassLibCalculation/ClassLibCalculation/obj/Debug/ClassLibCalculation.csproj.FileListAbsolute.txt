@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\bin\Debug\ClassLibCalculation.dll
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\bin\Debug\ClassLibCalculation.pdb
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.dll
+C:\Users\Admin\source\repos\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.pdb
